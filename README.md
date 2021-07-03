@@ -13,21 +13,53 @@
 
 <div align="center">
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitYT.png">](https://zenk.tk/youtube)
+<a href="https://zenk.tk/youtube" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitYT.png">
+  
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitWB.png">](https://zenk.tk/website)
+<a href="https://zenk.tk/website" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitWB.png">
+  
+</a>
+  
+<a href="https://zenk.tk/twitter" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitTW.png">
+  
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitTW.png">](https://zenk.tk/twitter)
+<a href="https://zenk.tk/facebook" target="_blank">
+    
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitFB.png">
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitFB.png">](https://zenk.tk/facebook)
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitIG.png">](https://zenk.tk/instagram)
+<a href="https://zenk.tk/instagram" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitIG.png">
+  
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitEM.png">](https://zenk.tk/hello)
+<a href="https://zenk.tk/hello" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitEM.png">
+ 
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitDC.png">](https://zenk.tk/discord)
+<a href="https://zenk.tk/discord" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitDC.png">
+  
+</a>
 
-[<img src="https://cdn.zeenkey.com/albums/icons/LinksGitMS.png">](https://zenk.tk/u/zeenkey)
+<a href="https://zenk.tk/u/zeenkey" target="_blank">
+  
+<img src="https://cdn.zeenkey.com/albums/icons/LinksGitMS.png">
+  
+</a>
 
 </div>
 
