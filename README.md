@@ -1,6 +1,6 @@
 <div align="center">
   
-[<img src="https://cdn.zeenkey.com/albums/github/Name.png">](https://zenk.tk/github)
+[<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/github/Name.png">](https://zenk.tk/github)
   
 </div>
 
@@ -15,49 +15,49 @@
 
 <a href="https://zenk.tk/youtube" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitYT.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitYT.png">
   
 </a>
 
 <a href="https://zenk.tk/website" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitWB.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitWB.png">
   
 </a>
   
 <a href="https://zenk.tk/twitter" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitTW.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitTW.png">
   
 </a>
 
 <a href="https://zenk.tk/facebook" target="_blank">
     
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitFB.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitFB.png">
 
 </a>
 
 <a href="https://zenk.tk/instagram" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitIG.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitIG.png">
   
 </a>
 
 <a href="https://zenk.tk/hello" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitEM.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitEM.png">
  
 </a>
 
 <a href="https://zenk.tk/discord" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitDC.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitDC.png">
   
 </a>
 
 <a href="https://zenk.tk/u/zeenkey" target="_blank">
   
-<img src="https://cdn.zeenkey.com/albums/icons/LinksGitMS.png">
+<img src="https://zeenkeycdn.ga/v1/Branding/ZEENKEY/icons/LinksGitMS.png">
   
 </a>
 
